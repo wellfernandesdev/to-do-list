@@ -113,7 +113,7 @@ input, select {
     align-items: center;
     padding: 1rem;
     border-bottom: 1px solid #ddd;
-    transition: 3s;
+    transition: 2s;
 }
 .todo h3 {
     flex: 100%;
